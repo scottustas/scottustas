@@ -1,4 +1,4 @@
-#Scott Ustas
+# Scott Ustas
 
 I am a Front-end Developer with over 15 years of experience creating scalable digital solutions across various industries. Expertise in HTML5, JavaScript, CSS3, Salesforce Marketing Cloud, and MarTech platforms.
 
