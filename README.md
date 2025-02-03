@@ -1,4 +1,6 @@
-## 👋 Hi I'm Scott Ustas. I am a Front-end Developer with over 15 years of experience creating scalable digital solutions across various industries. Expertise in HTML5, JavaScript, CSS3, Salesforce Marketing Cloud, and MarTech platforms.
+#Scott Ustas
+
+I am a Front-end Developer with over 15 years of experience creating scalable digital solutions across various industries. Expertise in HTML5, JavaScript, CSS3, Salesforce Marketing Cloud, and MarTech platforms.
 
 <!--
 **scottustas/scottustas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
